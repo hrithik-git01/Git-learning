@@ -1,2 +1,3 @@
 # Git-learning
-This is a repo i will be using for learning Git and GitHub
+This is a repo I will be using for learning Git and GitHub 
+Author - Hrithik Patil
